@@ -5,5 +5,5 @@
 
 ##Wiki
 
-Загляните в Wiki, чтобы начать изучение
+Загляните в [Wiki](https://github.com/NewYaroslav/bo-science.wiki.git), чтобы начать изучение
 
